@@ -1,0 +1,1 @@
+Catch the exception message and send it to the TextView
